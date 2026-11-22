@@ -1,8 +1,0 @@
-{
-  "name": "MEMORYVERSE — 10B4",
-  "description": "Những kỉ niệm đáng nhớ của 10B4 — Hành trình ký ức film và Liquid Glass dành cho tập thể lớp 10B4 (2026–2029).",
-  "requestFramePermissions": [],
-  "majorCapabilities": [
-    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
-  ]
-}
