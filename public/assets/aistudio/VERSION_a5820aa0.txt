@@ -1,0 +1,3 @@
+MEMORYVERSE V2.2 — ONE CONTINUOUS MEMORY JOURNEY
+Enhancements: editable per-photo titles on upload and after upload, original-file download/restore from Storage, portrait-safe lightbox, candidate/final yearbook stages, and printable yearbook PDF export from final selections.
+Existing album structure, curator auth, comments, and photo storage are retained.
